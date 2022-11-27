@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Merhaba 👋, ben Edanur</h1>
 <h3 align="center">Türkiye'den tutkulu bir önyüz geliştiricisi</h3>
 
@@ -16,6 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurklnc&show_icons=true&locale=en&layout=compact" alt="edanurklnc" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=edanurklnc&show_icons=true&locale=en" alt="edanurklnc" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=edanurklnc&show_icons=true&locale=en" alt="edanurklnc" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanurklnc&" alt="edanurklnc" /></p>
+
